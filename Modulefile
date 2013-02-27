@@ -1,0 +1,8 @@
+name         'tuxmea-quagga'
+version      '0.0.1'
+source       'https://github.com/tuxmea/puppet-quagga'
+author       'Martin Alfke'
+license      'Apache License 2.0'
+summary      'Quagga Management Module'
+description  'Manage Quagga with Puppet'
+project_page 'https://github.com/tuxmea/puppet-quagga'
